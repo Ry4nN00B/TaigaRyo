@@ -1,0 +1,7 @@
+name: TaigaRyo
+version: 1.0
+main: me.ry4nn00b.Main
+authors: [ Ry4nN00B ]
+
+commands:
+  ryo:
